@@ -10,6 +10,7 @@ import Have from "./components/Have";
 import Work from "./components/Work";
 import AddElement from "./components/AddElement";
 import AddList from "./components/AddList";
+import Ishonch from "./components/Ishonch";
 function App() {
   return (
     <div>
@@ -21,6 +22,7 @@ function App() {
           <Route path="have" element={<Have />} />
           <Route path="work" element={<Work />} />
           <Route path="add" element={<AddElement />} />
+          <Route path="ishonch" element={<Ishonch />} />
           <Route path="/list/:id" element={<CardList />} />
           <Route path="/liist/:id" element={<AddList />} />
         </Routes>

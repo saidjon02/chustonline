@@ -19,6 +19,9 @@ function Header() {
               <li>
                 <NavLink to={"not"}>Savol Javoblar</NavLink>
               </li>
+              <li>
+                <NavLink to={"ishonch"}>Savol Javoblar</NavLink>
+              </li>
             </ul>
           </div>
           <div className="nav-right row-df">
@@ -60,8 +63,9 @@ function Header() {
         </div>
         <div className="header-right">
           <button className="header-btn">Kirish</button>
-          <Link to={"add"}><button className="header-btn2">Vakansiya qo’shish</button></Link>
-          
+          <Link to={"add"}>
+            <button className="header-btn2">Vakansiya qo’shish</button>
+          </Link>
         </div>
       </header>
     </div>

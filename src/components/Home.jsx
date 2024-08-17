@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import img1 from "../../imgs/img1.png";
 import img2 from "../../imgs/homeIcon (4).png";
 import img3 from "../../imgs/homeIcon (3).png";
@@ -32,8 +32,7 @@ function Home() {
         <div className="home container">
           <div className="home-left">
             <h2 className="home-title">
-              Qiziqish va ko'nikmalaringizga mos keladigan ishni
-              toping.
+              Qiziqish va ko'nikmalaringizga mos keladigan ishni toping.
             </h2>
             <div className="inp-box2">
               <input
