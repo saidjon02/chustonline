@@ -1,0 +1,116 @@
+{
+  "empty": [
+    { "title": "Shifokor", "text": "20 ta ochiq ish o’rni", "id": 1 },
+    { "title": "O’qituvchi", "text": "20 ta ochiq ish o’rni", "id": 2 },
+    { "title": "Bog’bon", "text": "20 ta ochiq ish o’rni", "id": 3 },
+    { "title": "Menejer", "text": "20 ta ochiq ish o’rni", "id": 4 },
+    { "title": "Dasturchi", "text": "20 ta ochiq ish o’rni", "id": 5 },
+    { "title": "Hisobchi", "text": "20 ta ochiq ish o’rni", "id": 6 },
+    { "title": "Oshpaz", "text": "20 ta ochiq ish o’rni", "id": 7 },
+    { "title": "Sotuvchi", "text": "20 ta ochiq ish o’rni", "id": 8 }
+  ],
+
+  "ish":[
+    {
+      "title": "Jongoh mahallasi yoshlar yetakchisi",
+      "price": "$200 - $500",
+      "about": "Yoshlar ishlar agentligi",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 1
+    },
+    {
+      "title": "Haydovchi, shafyor",
+      "price": "$900 - $10.000",
+      "about": "Haydovchilik, Shafyor",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 2
+    },
+    {
+      "title": "Administator ",
+      "price": "$10.000 - $11.000",
+      "about": "Administator",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 3
+    },
+    {
+      "title": "Jongoh mahallasi yoshlar yetakchisi",
+      "price": "$200 - $500",
+      "about": "Yoshlar ishlar agentligi",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 4
+    },
+    {
+      "title": "Haydovchi, shafyor",
+      "price": "$900 - $10.000",
+      "about": "Haydovchilik, Shafyor",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 5
+    },
+    {
+      "title": "Administator ",
+      "price": "$10.000 - $11.000",
+      "about": "Administator",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 6
+    },
+    {
+      "title": "Jongoh mahallasi yoshlar yetakchisi",
+      "price": "$200 - $500",
+      "about": "Yoshlar ishlar agentligi",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 7
+    },
+    {
+      "title": "Haydovchi, shafyor",
+      "price": "$900 - $10.000",
+      "about": "Haydovchilik, Shafyor",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 8
+    },
+    {
+      "title": "Administator ",
+      "price": "$10.000 - $11.000",
+      "about": "Administator",
+      "place": "Namangan viloyat , Chust tumani",
+      "id": 9
+    }
+  ] ,
+  "idea": [
+    {
+      "text": "FaslMarket o’rqali o’z mutaxassisligimga mos ishni topdim va bundan juda ham mamnunman Tashkilotchilarga rahmat.",
+      "name": "Hasanboy Nurmuhammadov",
+      "hobby": "Veb dasturchi",
+      "id": 1
+    },
+    {
+      "text": "FaslMarket o’rqali o’z mutaxassisligimga mos ishni topdim va bundan juda ham mamnunman Tashkilotchilarga rahmat.",
+      "name": "Hasanboy Nurmuhammadov",
+      "hobby": "Veb dasturchi",
+      "id": 2
+    },
+    {
+      "text": "FaslMarket o’rqali o’z mutaxassisligimga mos ishni topdim va bundan juda ham mamnunman Tashkilotchilarga rahmat.",
+      "name": "Hasanboy Nurmuhammadov",
+      "hobby": "Veb dasturchi",
+      "id": 3
+    },
+    {
+      "text": "FaslMarket o’rqali o’z mutaxassisligimga mos ishni topdim va bundan juda ham mamnunman Tashkilotchilarga rahmat.",
+      "name": "Hasanboy Nurmuhammadov",
+      "hobby": "Veb dasturchi",
+      "id": 4
+    },
+    {
+      "text": "FaslMarket o’rqali o’z mutaxassisligimga mos ishni topdim va bundan juda ham mamnunman Tashkilotchilarga rahmat.",
+      "name": "Hasanboy Nurmuhammadov",
+      "hobby": "Veb dasturchi",
+      "id": 5
+    },
+    {
+      "text": "FaslMarket o’rqali o’z mutaxassisligimga mos ishni topdim va bundan juda ham mamnunman Tashkilotchilarga rahmat.",
+      "name": "Hasanboy Nurmuhammadov",
+      "hobby": "Veb dasturchi",
+      "id": 6
+    }
+  ]
+}
