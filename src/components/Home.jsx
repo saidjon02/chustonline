@@ -32,7 +32,8 @@ function Home() {
         <div className="home container">
           <div className="home-left">
             <h2 className="home-title">
-              Qiziqish va ko'nikmalaringizga mos keladigan ishni toping.
+              Hasanboy Qiziqish va ko'nikmalaringizga mos keladigan ishni
+              toping.
             </h2>
             <div className="inp-box2">
               <input
