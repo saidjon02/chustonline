@@ -11,6 +11,7 @@ import Work from "./components/Work";
 import AddElement from "./components/AddElement";
 import AddList from "./components/AddList";
 import Ishonch from "./components/Ishonch";
+import Post from "./components/Post";
 function App() {
   return (
     <div>
@@ -21,6 +22,7 @@ function App() {
           <Route path="not" element={<Not />} />
           <Route path="have" element={<Have />} />
           <Route path="work" element={<Work />} />
+          <Route path="dashboard" element={<Post />} />
           <Route path="add" element={<AddElement />} />
           <Route path="ishonch" element={<Ishonch />} />
           <Route path="/list/:id" element={<CardList />} />

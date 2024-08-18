@@ -22,6 +22,9 @@ function Header() {
               <li>
                 <NavLink to={"ishonch"}>Savol Javoblar</NavLink>
               </li>
+              <li>
+                <NavLink to={"dashboard"}>Post a job</NavLink>
+              </li>
             </ul>
           </div>
           <div className="nav-right row-df">

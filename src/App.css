@@ -65,7 +65,7 @@ ul a:hover {
   letter-spacing: 0%;
 }
 .nav-left ul {
-  width: 461px;
+  width: 561px;
   /* width: 216px; */
 }
 header {
@@ -326,6 +326,192 @@ header {
 }
 .about-text-box {
 }
+
+/* post */
+
+.post {
+  display: grid;
+  border-top: 2px solid #9da5b1;
+  grid-template-columns: 300px auto;
+  gap: 0;
+}
+.container {
+}
+.post-left {
+  padding-top: 40px;
+  border-right: 2px solid #9da5b1;
+}
+.postl-title {
+  color: rgb(145, 153, 163);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.post-links {
+  color: rgb(118, 127, 140);
+  font-size: 14px;
+  display: block;
+  font-weight: 600;
+  margin-left: 20px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.post-right {
+  padding-top: 40px;
+  padding-left: 25px;
+}
+.post-title {
+  font-weight: 500;
+  margin-bottom: 40px;
+  font-size: 25px;
+}
+.inp-boxes {
+}
+.inp-box {
+}
+.inp-label {
+  font-size: 16px;
+  color: #0c1421;
+  display: block;
+  margin-bottom: 8px;
+}
+.post-inps {
+  width: 100%;
+  border-radius: 8px;
+  padding: 16px 26px;
+  background-color: #f7fbff;
+  color: #8897ad !important;
+  border: 1px solid #d4d7e3;
+  font-size: 16px;
+}
+.post select {
+  padding: 15px 26px;
+}
+.inp-row {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  gap: 13px;
+  margin-top: 25px;
+}
+.countries {
+}
+.post-title2 {
+  margin-bottom: 27px;
+  font-weight: 500;
+  margin-top: 37px;
+}
+.inp-row3 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 18px;
+}
+.loc {
+  border-radius: 10px;
+  padding: 28px 25px;
+  margin-top: 20px;
+  background-color: #f1f2f4;
+}
+.loc-title {
+  font-size: 19px;
+  font-weight: 500;
+  margin-bottom: 21px;
+}
+.loc-row {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 21px;
+}
+.inp-check {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  margin-top: 16px;
+}
+.ch {
+  width: 20px;
+  height: 20px;
+}
+.check {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.btn-box {
+  gap: 12px;
+}
+.post-btns {
+  font-size: 15px;
+  background-color: #f9fafb;
+  color: #52565e;
+  border: 1px solid #e4e5e8;
+  border-radius: 5px;
+  padding: 8px 15px;
+  margin: 5px;
+}
+
+textarea.post-inps {
+  height: 386px;
+  max-width: 984px;
+}
+.post-title3 {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.p-cards {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 21px;
+}
+.p-card {
+  border-radius: 10px;
+transition: 0.5s;
+cursor: pointer;
+  display: flex;
+  gap: 10px;
+  align-items: start;
+  padding: 16px 13px;
+}
+.card-active {
+  background-color: white;
+}
+.p-card:hover{
+  background-color: white;
+}
+.chek {
+  margin-top: 5px;
+  height: 15px;
+  width: 15px;
+}
+.p-card-title {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 3px;
+  margin-top: 0;
+}
+.p-card-text {
+  font-size: 12px;
+}
+.post-btn {
+  font-size: 20px;
+  padding: 19px 25px;
+  background-color: #0A65CC;
+  border: 0;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  line-height: 15px;
+  margin-top: 25px;
+}
+
+/* / post */
+
 .about-title {
   color: rgb(24, 25, 28);
   font-size: 24px;
